@@ -10,7 +10,7 @@ This will create the subdirectory 'Work' in the directory 'Documents'
 tree Documents/
 ```
 This will output the tree for 'Documents' directory
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ## Create a new file in a directory
 ```
@@ -46,13 +46,13 @@ find -iname myfile.txt
 ```
 ls -l
 ```
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ## Create a symbolic link to a specific file
 ```
 ln -s /home/student/.localshare/Trash/files/ Bin
 ```
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 ## Output the contents of a text file
 ```
