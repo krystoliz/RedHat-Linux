@@ -41,3 +41,15 @@ find -name myfile.txt
 ```
 find -iname myfile.txt
 ```
+
+## Output long list of files in a current directory
+```
+ls -l
+```
+![alt text](image-1.png)
+
+## Create a symbolic link to a specific file
+```
+ln -s /home/student/.localshare/Trash/files/ Bin
+```
+![alt text](image-2.png)
