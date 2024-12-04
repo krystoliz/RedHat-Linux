@@ -5,3 +5,7 @@
 cp D*ds/*d Documents
 ```
 
+## Check the free space
+```
+df -h ~
+```
