@@ -53,3 +53,8 @@ ls -l
 ln -s /home/student/.localshare/Trash/files/ Bin
 ```
 ![alt text](image-2.png)
+
+## Output the contents of a text file
+```
+cat Documents/test.txt
+```
