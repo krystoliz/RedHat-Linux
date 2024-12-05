@@ -9,3 +9,8 @@ cp D*ds/*d Documents
 ```
 df -h ~
 ```
+
+## Check the space occupied for every directory
+```
+du -h ~
+```
